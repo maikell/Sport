@@ -1,4 +1,4 @@
-#!/bin.python
+#!/bin/python
 from __future__ import print_function # use pyton 3 print function for splitting 
                                       # when we want
 import urllib2

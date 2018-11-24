@@ -11,3 +11,6 @@ Lapscrap needs several libraries, these can be installed with pip.
 * urllib2
 * BeautifulSoup
 
+example execution:
+$ ./lapscrap.py http://nl.mylaps.com/evenementen/uitslagen/2018/jul/8/amsterdam/HALFTot.html
+
